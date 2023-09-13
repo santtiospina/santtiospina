@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Santiago Ospina Ferreira @santtiospina
-- 👀 I’m interested in ML, Optimization & Data Science Industrial Applications
-- 👨🏻‍💻 I’m currently learning Data Analytics using Python
-- 📈 I’m looking to collaborate on business projects
+- 👀 Interests: Machine Learning, Optimization & Data Science Industrial Applications
+- 👨🏻‍💻 I’m currently learning Machine Learning, Optimization & Data Science using Python and R
+- 📈 I’m looking to collaborate on amazing projects
 - 📫 How to reach me @santtiospina / santiospina910@gmail.com
 
 <!---
