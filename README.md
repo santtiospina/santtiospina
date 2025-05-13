@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Santiago Ospina Ferreira
-- 👀 Interests: Machine Learning, Optimization & Data Science Applications
-- 👨🏻‍💻 I’m currently working on Machine Learning, Optimization & Data Science using Python and R
-- 📈 Open to collaborate on cool projects
+- 📚 Passionate about Machine Learning, Stochastic Processes & Optimization
+- 📈 Eager to collaborate on impactful projects in finance, operations research, and data science
 - 📫 Reach me: santiospina910@gmail.com
 
 <!---
